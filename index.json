@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 3,
+  "serial": 4,
   "addons": [
     {
       "id": "asr-advisor",
@@ -50,6 +50,31 @@
         "status": "untested",
         "tested": "",
         "notes": ""
+      }
+    },
+    {
+      "id": "asr-loot",
+      "name": "ASR Loot",
+      "author": "AlexEnotov",
+      "repo": "AlexEnotov/ASR-Addons",
+      "description": "Permanent boss equipment drops, new acquisitions and duplicate gold.",
+      "category": "Loot",
+      "license": "GPL-3.0-only",
+      "folders": [
+        "ASRLoot"
+      ],
+      "requires": [],
+      "interface": [
+        30300
+      ],
+      "version": "v0.6.0",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.0/ASRLoot-v0.6.0.zip",
+      "size": 39896,
+      "sha256": "e787cd0f317bb469d541f8ac49b1aa732627cdf84c5ce38d9e30c6442a2b642c",
+      "reborn": {
+        "status": "works",
+        "tested": "0.6.5",
+        "notes": "Tested in solo play: equipment drops, sold duplicates and optional Suite settings."
       }
     },
     {

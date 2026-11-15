@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 4,
+  "serial": 5,
   "addons": [
     {
       "id": "asr-advisor",
@@ -17,10 +17,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.5.14",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.5.14/ASRAdvisor-v0.5.14.zip",
-      "size": 82757,
-      "sha256": "01e1dea771fdc9cb3f3c0096f8c5999ba85567d988b41fa874beb94da4b42779",
+      "version": "v0.6.1",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.1/ASRAdvisor-v0.6.1.zip",
+      "size": 91672,
+      "sha256": "93d8d4821463a75c9ed874a97ab434d6ab937db30f5350c3738f26756b433d61",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -42,14 +42,39 @@
       "interface": [
         30300
       ],
-      "version": "v0.5.14",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.5.14/ASRCombatText-v0.5.14.zip",
-      "size": 26061,
-      "sha256": "75344c82301cc850c9bd8d24b8167edeb8c041fc1b3e9710223c0553d5ceed56",
+      "version": "v0.6.1",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.1/ASRCombatText-v0.6.1.zip",
+      "size": 26295,
+      "sha256": "fb5f81fd1e271dc7b100e52d2ae1a0bcbf39383eb18dc31d5ee6b90bcb2a3e35",
       "reborn": {
         "status": "untested",
         "tested": "",
         "notes": ""
+      }
+    },
+    {
+      "id": "asr-endless",
+      "name": "ASR Endless",
+      "author": "AlexEnotov",
+      "repo": "AlexEnotov/ASR-Addons",
+      "description": "Endless boss rounds, live status and next boss countdown.",
+      "category": "Map",
+      "license": "GPL-3.0-only",
+      "folders": [
+        "ASREndless"
+      ],
+      "requires": [],
+      "interface": [
+        30300
+      ],
+      "version": "v0.6.1",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.1/ASREndless-v0.6.1.zip",
+      "size": 30917,
+      "sha256": "fc063b8d2076f9cc4149f130e6c41580928bf201cb8e926d306bdb19c3297aef",
+      "reborn": {
+        "status": "untested",
+        "tested": "",
+        "notes": "Standalone extraction validated by automated scenarios; Suite integration is optional."
       }
     },
     {
@@ -67,10 +92,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.6.0",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.0/ASRLoot-v0.6.0.zip",
-      "size": 39896,
-      "sha256": "e787cd0f317bb469d541f8ac49b1aa732627cdf84c5ce38d9e30c6442a2b642c",
+      "version": "v0.6.1",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.1/ASRLoot-v0.6.1.zip",
+      "size": 39897,
+      "sha256": "b486db89bf65a18fad5a7d56fda833aa154a586dee4b1862815bcbb33006fd9f",
       "reborn": {
         "status": "works",
         "tested": "0.6.5",
@@ -92,10 +117,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.5.14",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.5.14/ASRStats-v0.5.14.zip",
-      "size": 21759,
-      "sha256": "987426e66c47e5847c1470f74595a30acc3dcc5f75498399ffc1bfa59676ad72",
+      "version": "v0.6.1",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.1/ASRStats-v0.6.1.zip",
+      "size": 22143,
+      "sha256": "c9c83e1af510805b6f76c756f98174abc5c11c0dc7e88dd1c6cd9a88f82fcd8d",
       "reborn": {
         "status": "untested",
         "tested": "",
@@ -117,10 +142,10 @@
       "interface": [
         30300
       ],
-      "version": "v0.5.14",
-      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.5.14/ASRSuite-v0.5.14.zip",
-      "size": 40190,
-      "sha256": "c8d3c38be976b98d8641e457a947128d981f970fe9accb8ef0f2a823aec56cc6",
+      "version": "v0.6.1",
+      "asset_url": "https://github.com/AlexEnotov/ASR-Addons/releases/download/v0.6.1/ASRSuite-v0.6.1.zip",
+      "size": 47315,
+      "sha256": "b50e06987de8447e194dc5ee56cc9bdbdd210abd2312b2792be057aa3ff3121b",
       "reborn": {
         "status": "untested",
         "tested": "",

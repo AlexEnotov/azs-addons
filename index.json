@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 6,
+  "serial": 7,
   "addons": [
     {
       "id": "asr-advisor",
@@ -167,14 +167,14 @@
       "interface": [
         11200
       ],
-      "version": "v0.1.0-reborn.31",
-      "asset_url": "https://github.com/Maidenquinn/azeroth-fieldkit-reborn/releases/download/v0.1.0-reborn.31/AzerothFieldKitReborn-0.1.0-reborn.31.zip",
-      "size": 22055422,
-      "sha256": "ab0cc6aa31d2d43cf0a0ccb5804457677798806d513264dc8371bb48828d747d",
+      "version": "v0.1.0-reborn.35",
+      "asset_url": "https://github.com/Maidenquinn/azeroth-fieldkit-reborn/releases/download/v0.1.0-reborn.35/AzerothFieldKitReborn-0.1.0-reborn.35.zip",
+      "size": 22058656,
+      "sha256": "16a6c513694deb8b14e0e3c28f9e33d019f754577c7e03d3454f2f78f74af6c1",
       "reborn": {
         "status": "works",
-        "tested": "0.6.5 / 0.1.0-reborn.31",
-        "notes": "Maintainer accepted the 0.1.0-reborn.31 gameplay recipe on client 0.6.5 (2026-11-15), with Elwynn and native-style presets. Automated API, settings and profile tests pass. Requires the game's bundled AzerothSurvivorsAPI. Co-op and other resolutions are not independently certified. See repository notices for inherited rights."
+        "tested": "0.6.5 / 0.1.0-reborn.35",
+        "notes": "Maintainer accepted the 0.1.0-reborn.35 gameplay recipe on client 0.6.5 (2026-11-15), including world-marker placement and height controls with native/illustrated layouts. Automated API, settings and profile tests pass. Requires the game's bundled AzerothSurvivorsAPI. Co-op and other resolutions are not independently certified. See repository notices for inherited rights."
       }
     },
     {

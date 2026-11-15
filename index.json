@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "serial": 5,
+  "serial": 6,
   "addons": [
     {
       "id": "asr-advisor",
@@ -150,6 +150,31 @@
         "status": "untested",
         "tested": "",
         "notes": ""
+      }
+    },
+    {
+      "id": "azeroth-fieldkit-reborn",
+      "name": "Azeroth FieldKit Reborn",
+      "author": "Kevin Radlowski / Maidenhead; MASH by Malk",
+      "repo": "Maidenquinn/azeroth-fieldkit-reborn",
+      "description": "Combat HUD, damage/healing meters, campaign bosses, jewelry, world markers and themed/native HUD presets for Reborn.",
+      "category": "Combat",
+      "license": "LicenseRef-FieldKit-Notice",
+      "folders": [
+        "AzerothFieldKitReborn"
+      ],
+      "requires": [],
+      "interface": [
+        11200
+      ],
+      "version": "v0.1.0-reborn.31",
+      "asset_url": "https://github.com/Maidenquinn/azeroth-fieldkit-reborn/releases/download/v0.1.0-reborn.31/AzerothFieldKitReborn-0.1.0-reborn.31.zip",
+      "size": 22055422,
+      "sha256": "ab0cc6aa31d2d43cf0a0ccb5804457677798806d513264dc8371bb48828d747d",
+      "reborn": {
+        "status": "works",
+        "tested": "0.6.5 / 0.1.0-reborn.31",
+        "notes": "Maintainer accepted the 0.1.0-reborn.31 gameplay recipe on client 0.6.5 (2026-11-15), with Elwynn and native-style presets. Automated API, settings and profile tests pass. Requires the game's bundled AzerothSurvivorsAPI. Co-op and other resolutions are not independently certified. See repository notices for inherited rights."
       }
     },
     {
